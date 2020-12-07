@@ -1,3 +1,3 @@
 # FullStackAssignment2
 
-![Alt text](relative/path/to/rajkotwheather.PNG?raw=true "Title")
+https://github.com/DevarshiKSagar/FullStackAssignment2/blob/master/rajkotwheather.PNG
